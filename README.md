@@ -13,4 +13,4 @@ Sample website with plenty of files for demos to test REBASE
 Simply fork and submite a Pull Requests
 
 ### Copyright
-2021 Free for all
+2021 Free for all and the world
