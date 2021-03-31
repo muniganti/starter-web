@@ -7,7 +7,7 @@ A sample project to test
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos to test REBASE
 
 ## How to contribute
 Simply fork and submite a Pull Requests
