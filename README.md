@@ -11,3 +11,6 @@ Sample website with plenty of files for demos to test REBASE
 
 ## How to contribute
 Simply fork and submite a Pull Requests
+
+### Copyright
+2021 Free for all
