@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    VM -- Dev -- @vm
 
 # THANKS
 
-    <name>
+    VM
 
 # TECHNOLOGY COLOPHON
 
