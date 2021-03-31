@@ -10,4 +10,4 @@ A sample project to test
 Sample website with plenty of files for demos
 
 ## How to contribute
-Simply fork and submite a PR
+Simply fork and submite a Pull Requests
